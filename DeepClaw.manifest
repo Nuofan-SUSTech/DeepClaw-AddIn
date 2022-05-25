@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"0980e769-3d16-4648-8654-1d0db80b19e6",
+	"author":	"Nuofan",
+	"description":	{
+		"":	"An add-in to built DeepClaw, update DeepClaw and export necessary materials such as enginnering drawings, BOM list and URDF file."
+	},
+	"version":	"",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
